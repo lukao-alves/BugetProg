@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="icon">images/budget.png</file>
+        <file alias="edit">images/edit.png</file>
+        <file alias="add">images/add.png</file>
+        <file alias="remove">images/remove.png</file>
+        <file alias="doubleLeftArrow">images/double_left_arrow.png</file>
+        <file alias="doubleRightArrow">images/double_right_arrow.png</file>
+        <file alias="singleLeftArrow">images/single_left_arrow.png</file>
+        <file alias="singleRightArrow">images/single_right_arrow.png</file>
+    </qresource>
+</RCC>
